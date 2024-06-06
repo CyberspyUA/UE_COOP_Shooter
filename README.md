@@ -1,6 +1,4 @@
-# C++ Multiplayer Third-person Shooter in Unreal Engine 4 [Project 2]
-
-Finished project for "Co-op Game", part of the Udemy Course: **[Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/unrealengine-cpp/?couponCode=TLGH14)**
+# C++ Multiplayer Third-person Shooter in Unreal Engine 4
 
 **Current Engine Version: 4.26**
 
