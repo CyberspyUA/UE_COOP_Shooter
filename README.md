@@ -12,6 +12,6 @@
 	- Power-up system including 'Health Regeneration' and 'Super Speed'
 	- Enemy AI Spawning using 'Environment Query System'
 	- Horde-mode wave spawning of enemy AI
-	- Advanced AI Bot using hitscan weapon, behavior trees, EQS and custom nodes (Tasks, Decorators, Services)
-	- Custom ActorCompont for Health in any Actor like AI, Player, Explosive Barrel etc.
+	- Advanced AI Bot using hitscan weapon, behavior trees, EQS, and custom nodes (Tasks, Decorators, Services)
+	- Custom ActorCompont for Health in any Actor like AI, Player, Explosive Barrel, etc.
 	- UMG UI
